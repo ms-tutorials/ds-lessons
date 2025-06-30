@@ -1,0 +1,7 @@
+[
+  { "day": "Monday", "value": 10 },
+  { "day": "Tuesday", "value": 15 },
+  { "day": "Wednesday", "value": 7 },
+  { "day": "Thursday", "value": 20 },
+  { "day": "Friday", "value": 13 }
+]
