@@ -54,3 +54,5 @@ env/
 *.pdf
 *.md
 *ipynb
+
+phase-4/Data/nltk_data
